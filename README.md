@@ -1,1 +1,2 @@
 # Customer_sales_dataset
+Customer Sales dataset containing customer demographic details and transaction records used for practicing data cleaning and transformation in Power Query. The dataset includes fields such as Customer ID, Name, Gender, Birthdate, Transaction Amount, and Transaction Date, along with real-world data quality issues like missing values, inconsistent formatting, duplicate records, and incorrect data types.
